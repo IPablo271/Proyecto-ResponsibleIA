@@ -16,7 +16,9 @@ El notebook sigue la siguiente estructura:
 
 Para ejecutar el notebook, sigue estos pasos:
 
-# Proyecto ResponsibleIA## Descripción del Proyecto
+# Proyecto ResponsibleIA
+
+## Descripción del Proyecto
 
 Este proyecto tiene como objetivo aplicar técnicas de machine learning para un análisis detallado de datos y la interpretación de modelos utilizando SHAP (SHapley Additive exPlanations). El enfoque es entender cómo las características del dataset influyen en las predicciones del modelo, en el contexto de la Inteligencia Artificial Responsable.
 
