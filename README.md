@@ -38,4 +38,15 @@ Sigue estos pasos para clonar el repositorio y ejecutar el proyecto en tu máqui
    ```
 
 
+**Integrantes**
+
+José Daniel Gonzalez
+
+
+Sebastián Aristondo
+
+
+Pablo Daniel Gonzalez
+
+
 
